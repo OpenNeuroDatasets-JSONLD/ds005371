@@ -1,5 +1,5 @@
 {
-    "Name": "Test-retest reliability of multi-metabolite edited MRS at 3T using PRESS and sLASER localization",
+    "Name": "Test-retest reliability of multi-metabolite edited MRS at 3T using PRESS and sLASER",
     "BIDSVersion": "1.10.0-dev",
     "DatasetType": "raw",
     "License": "CC0",
