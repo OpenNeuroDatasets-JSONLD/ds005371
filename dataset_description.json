@@ -16,5 +16,8 @@
   "EthicsApprovals": [
     "The Weill Cornell Medicine Institutional Review Board granted ethical approval for this study (protocol #0807009883)"
   ],
+  "ReferencesAndLinks": [
+    "doi:10.1101/2025.06.07.657685"
+  ],
   "DatasetDOI": "doi:10.18112/openneuro.ds005371"
 }
