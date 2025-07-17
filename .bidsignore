@@ -2,5 +2,5 @@
 *_mrsref*
 ./*mrs/*
 *.m
-./*basis_sets/*
+/basis_sets/
 *.mat
