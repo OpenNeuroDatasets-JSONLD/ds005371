@@ -4,15 +4,19 @@ Contact: Mark Mikkelsen, Ph.D. ([mam4041@med.cornell.edu](mailto:mam4041@med.cor
 
 ## Overview
 
-These data were collected as part of a study to assess the test-retest reliability of multi-metabolite edited MRS using the [HERMES](https://doi.org/10.1016/j.neuroimage.2016.07.056) and [HERCULES](https://doi.org/10.1016/j.neuroimage.2018.10.002) editing schemes and the [PRESS](https://doi.org/10.1111/j.1749-6632.1987.tb32915.x) and [sLASER](https://doi.org/10.1002/mrm.21302) localization approaches.
+These data were collected as part of a study to assess the test-retest reliability of multi-metabolite edited MRS using [HERMES](https://doi.org/10.1016/j.neuroimage.2016.07.056) and [HERCULES](https://doi.org/10.1016/j.neuroimage.2018.10.002) editing and [PRESS](https://doi.org/10.1111/j.1749-6632.1987.tb32915.x) and [sLASER](https://doi.org/10.1002/mrm.21302) localization.
 
-Data types included are defaced *T*<sub>1</sub>-weighted 3D structural MRI images and HERMES- and HERCULES-edited PRESS and sLASER MRS data.
+Data types included are defaced *T*<sub>1</sub>-weighted 3D structural MRI images and single-voxel HERMES- and HERCULES-edited PRESS and sLASER MRS data.
 
 ## Methods
 
-### Subjects
+### Participants
 
 Sixteen healthy adults (10 females, 6 males, mean age = 38.4 ± 18.2 years).
+
+### Scanning
+
+Two 1-hr scan sessions for each participant separated by a time interval (median = 0 days; range = 0-29 days).
 
 ### MR protocol
 
@@ -34,7 +38,7 @@ MR data were acquired on a 3T GE Discovery MR750 MRI scanner using a <sup>1</sup
 
 #### MRS
 
-General MRS acquisition parameters:
+General acquisition parameters:
 
 - Volume of interest = medial parietal lobe
 - Voxel resolution = 30 × 30 × 30 mm<sup>3</sup>
@@ -42,3 +46,18 @@ General MRS acquisition parameters:
 - Number of points = 4096
 - TE/TR = 82/2000 ms
 - Number of transients = 224
+- Duration = 7 min 28 s
+- Double-echo GRE autoshimming
+- OVS = 3 orthogonal slabs
+
+HERMES:
+
+- Target metabolites: GABA and GSH
+- Two acquisitions: PRESS and sLASER
+- CHESS water suppression
+
+HERCULES:
+
+- Target metabolites: GABA, GSH, ascorbate, aspartate, lactate, NAA, and NAAG
+- Two acquisitions: PRESS and sLASER
+- VAPOR water suppression
