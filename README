@@ -14,6 +14,9 @@ Data types included are defaced *T*<sub>1</sub>-weighted 3D structural MRI image
 
 Sixteen healthy adults (10 females, 6 males, mean age = 38.4 ± 18.2 years).
 
+**Important note**: Data of two participants (sub-05 and sub-06) was not uploaded to this repository because they did not provide the relevant consent for data sharing.
+The data of the remaining 14 participants are available in this repository.
+
 ### Scanning
 
 Two 1-hr scan sessions for each participant separated by a time interval (median = 0 days; range = 0-29 days).
