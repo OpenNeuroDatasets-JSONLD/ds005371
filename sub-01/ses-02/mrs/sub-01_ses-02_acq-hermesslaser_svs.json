@@ -17,12 +17,12 @@
 	"ResonantNucleus":[
 		"1H"
 	],
-	"SpectrometerFrequency":127.77,
+	"SpectrometerFrequency":[127.77],
 	"SpectralWidth":5000,
 	"EchoTime":0.082,
 	"NumberOfSpectralPoints":4096,
 	"AcquisitionVoxelSize":[30,30,30],
-	"ReferenceSignal":"bids::sub-01/ses-01/mrs/sub-01_ses-01_acq-hermesslaser_mrsref.nii.gz",
+	"ReferenceSignal":"bids::sub-01/ses-02/mrs/sub-01_ses-02_acq-hermesslaser_mrsref.nii.gz",
 	"RepetitionTime":2,
 	"NumberOfTransients":224,
 	"AnatomicalImage":"bids::sub-01/ses-02/anat/sub-01_ses-02_T1w.nii",

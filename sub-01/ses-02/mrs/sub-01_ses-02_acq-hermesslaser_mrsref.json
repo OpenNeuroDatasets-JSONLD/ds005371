@@ -16,7 +16,7 @@
 	"ResonantNucleus":[
 		"1H"
 	],
-	"SpectrometerFrequency":127.77,
+	"SpectrometerFrequency":[127.77],
 	"SpectralWidth":5000,
 	"EchoTime":0.082,
 	"NumberOfSpectralPoints":4096,
