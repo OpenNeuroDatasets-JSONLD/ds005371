@@ -4,3 +4,6 @@
 *.m
 *basis_sets*
 *.mat
+./derivatives/output/
+./derivatives/Gannet_output/
+.DS_Store
