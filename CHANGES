@@ -6,5 +6,5 @@
 2.0.0 2025-04-09
   - Reanalysis using the LCModel fitting algorithm embedded in Osprey
 
-2.1.0 2025-07-27
-  - Updated OpenNeuro data repository (ds005371)
+2.1.0 2025-08-16
+  - Update .bidsignore
