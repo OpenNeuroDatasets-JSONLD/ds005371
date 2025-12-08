@@ -17,5 +17,6 @@
   - Added .BASIS files for basis sets
   - Added frequency offset and subtraction artifact data
   - Updated stats code
-2.3.0 2025-09-04
-  - Add code/stats/
+2.3.0 2025-12-08
+  - Added stats.Rmd and stats.html to code/stats/
+  - Minor change to stats.R
